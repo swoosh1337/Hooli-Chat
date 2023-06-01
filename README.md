@@ -2,7 +2,7 @@
 
 Hooli Chat is a real-time chat application that allows users to communicate with each other instantly. It is built using React for the frontend and Express.js for the backend, with authentication handled via the Chat Engine API.
 
-![Chat Application Demo]([./assets/demo.png](https://github.com/swoosh1337/Hooli-Chat/blob/main/front-end/src/assets/demo.png)) 
+![Chat Application Demo](https://github.com/swoosh1337/Hooli-Chat/blob/main/front-end/src/assets/demo.png)
 
 ## Features
 
